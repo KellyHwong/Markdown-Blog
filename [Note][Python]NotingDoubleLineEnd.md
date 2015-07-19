@@ -29,5 +29,5 @@ for line in fh.readlines():
     line_strip = line.strip('\n')
     print line_strip.upper()
 ```
-Strip that '\n' input into the *line* variable, and the *print* method will add another '\n' for you. That's why we do this *strip* operation. 
+Strip that '\n' input into the *line* variable, and the *print* method will add another '\n' for you. That's why we do this *strip* operation.  
 So guys, do you catch my idea :-).
